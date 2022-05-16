@@ -4,4 +4,4 @@
 
 This quote I found on a random website is what really inspired me to get into the area of operating systems engineering (and the fact that I love a good challenge and have always preferred to stay on the low-level end of things, as it is the only real way to truly understand how everything works and become a world-class developer). Ever since, I have been actively learning, watching, reading about and doing tutorials on OS dev and all the subfields it entails in an attempt to one day reach a point of having gathered enough knowledge and skill to really become an esteemed world-class software engineer.
 
-I am an incoming Operating Systems Developer at IBM, starting in May this year, after spending nearly a year as a hypervisor engineer at Citrix.
+I am currently working at IBM developing z/OS, an operating system for running the world's mission critical applications.
