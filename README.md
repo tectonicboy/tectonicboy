@@ -10,7 +10,7 @@ techniques to positively impact a given compiler's available optimization passes
 
 I've also recently begun contributing to my first ever Free and Open Source project - The GNU Compiler Collection, as I find
 much overlap in their philosophy, the kind of work the GNU Project does, the purpose of said work and the kind of people
-involved with it. It's been a very positive experience and I plan to continue being an active contributor and growing on that front.
+involved with it. It's been a very positive experience and I plan to continue being an active contributor and growing in that ecosystem.
 
 ## My personal stance on AI-generated content and "vibe coding"
 
