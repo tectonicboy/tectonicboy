@@ -33,7 +33,7 @@ an effortless quick buck, with no passion for their craft whatsoever, and not pl
 That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
 
 Every chance I get, I express my condemnation for anybody who knowingly, in most cases without disclosing it, pollutes the internet
-with soulless AI-generated slop content, hoping that unsuspecting bystanders will interact with it.
+with soulless AI-generated slop content, hoping that unsuspecting bystanders will interact with it - a direct insult to these people.
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 
