@@ -12,7 +12,7 @@ I've also recently begun contributing to my first ever Free and Open Source proj
 much overlap in their philosophy, the kind of work the GNU Project does, the purpose of said work and the kind of people
 involved with it. It's been a very positive experience and I plan to continue an being active contributor and growing on that front.
 
-# My personal stance on AI-generated content and "vibe coding"
+## My personal stance on AI-generated content and "vibe coding"
 
 Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
 This is extremely important if we ever want to have a pristine oasis on the internet that's not plagued by AI slop.
