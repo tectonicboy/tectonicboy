@@ -34,7 +34,7 @@ direct insult on those same people. The AI training scraper bot attacks on web s
 who, after countless hours of hard work, got very close to a groundbreaking solution to the Navier-Stokes equations, only for their research
 to be stolen by AI companies and completely plagiarized, added even more fuel to the fire.
 
-Thankfully, the global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
+Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 
 
 
