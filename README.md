@@ -41,7 +41,7 @@ I strive for genuine, authenticm, high quality content produced by real humans w
 This extends beyond software and engineering work - artists, bloggers, writers, teachers, everybody should be focusing on
 preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
 
-Onwards and upwards folks! :)
+Onwards and upwards folks! Happy hacking :)
 
 
 
