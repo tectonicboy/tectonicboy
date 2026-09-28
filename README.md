@@ -39,7 +39,9 @@ Thankfully, global technology projects that actually matter are doing the right 
 
 I strive for genuine, authenticm, high quality content produced by real humans with a passion for what they do.
 This extends beyond software and engineering work - artists, bloggers, writers, teachers, everybody should be focusing on
-preserving authentic content created with a passion, instead of AI-generated pollution. Onwards and upwards folks! :)
+preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
+
+Onwards and upwards folks! :)
 
 
 
