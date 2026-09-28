@@ -1,4 +1,4 @@
-# Hi!
+# Hi! Happy to see you here :)
 
 I'm an experienced software developer, an active GCC contributor and a Free Software enthusiast based in Europe.
 
