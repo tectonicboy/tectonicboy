@@ -41,5 +41,9 @@ marketing campaign, added even more fuel to the fire.
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 
+I strive for genuine, authentic high quality content produced by real humans with a passion for what they do.
+This extends beyond software and engineering work - artists, bloggers, authors, everybody should be focusing on
+preserving authentic content created with a passion, instead of AI-generated pollution. Onwards and upwards folks! :)
+
 
 
