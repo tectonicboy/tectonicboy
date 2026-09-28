@@ -33,11 +33,7 @@ an effortless quick buck, with no passion for their craft whatsoever, and not pl
 That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
 
 Every chance I get, I express my condemnation for anybody who knowingly, in most cases without disclosing it, pollutes the internet
-with soulless AI-generated slop content, hoping the untrained eye of unsuspecting bystanders will see it and interact with it - a
-direct insult on those same people. The highly damaging AI training scraper bot attacks on web servers and the recent scandal surrounding
-the mathematicians who, after countless hours of hard work, got very close to a groundbreaking solution to the Navier-Stokes equations,
-only for their research to be stolen by AI companies and completely plagiarized, then used as a fake "look at how good our LLMs are" 
-marketing campaign, added even more fuel to the fire.
+with soulless AI-generated slop content, hoping that unsuspecting bystanders will interact with it.
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 
