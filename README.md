@@ -12,6 +12,10 @@ I've also recently begun contributing to my first ever Free and Open Source proj
 much overlap in their philosophy, the kind of work the GNU Project does, the purpose of said work and the kind of people
 involved with it. It's been a very positive experience and I plan to continue being an active contributor and growing in that ecosystem.
 
+I am currently open to employment roles with work involving low-latency systems, software-hardware codesign and optimization, general low-level systems
+programming and embedded systems. I'm open to entering industries I haven't been in before and learning new tech stacks and programming languages, as
+long as the work is interesting and fascinating enough.
+
 ## My personal stance on AI-generated content and "vibe coding"
 
 Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
