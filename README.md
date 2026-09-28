@@ -17,11 +17,13 @@ involved with it. It's been a very positive experience, I plan to continue an ac
 Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
 This is extremely important if we ever want to have a pristine oasis on the internet that's not plagued by AI slop.
 
-All my personal programming hobby projects are done by me, with my own two hands and brain, for I believe "vibe coding"
-- the process of blindly trusting an LLM code-emitting agent to produce a piece of high quality, reliably working software
-without the slightest idea what's going on - results in nothing but an engineer's skills vastly diminishing and a codebase
-of very low quality. I do use LLM chatbots though. I find them very helpful and productivity-boosting when using them as
-information dumps, saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas.
+All my personal programming hobby projects are done by me, with my own two hands and brain, for I believe "vibe coding", 
+the process of blindly trusting an LLM code-emitting agent to produce a piece of high quality, reliably working software,
+without the slightest idea how that software works and a complete inability to explain the code it gave you, results in
+nothing but an engineer's skills vastly diminishing, reducing their aptitude, and a codebase of very low quality.
+
+I do use LLM chatbots though. I find them very helpful and productivity-boosting when using them as information dumps,
+saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas.
 
 Replacing real, passionate programmers with LLMs and AI-generated "vibe coding" circus shows is not going to work.
 The only developers who are genuinely feeling significantly empowered by LLMs and AI-generated coding in a life-changing way
