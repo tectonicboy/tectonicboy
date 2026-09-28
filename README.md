@@ -1,6 +1,6 @@
 # Hi! Happy to see you here.
 
-I'm an experienced software developer, an active GCC contributor and a Free Software enthusiast based in Europe.
+I'm an experienced software developer, an active GCC contributor and a Free Software enthusiast currently based in Europe.
 
 In my career so far, I've been primarily busying myself with the dark arts of low-level systems programming.
 My development home so far has been GNU/Linux, though I'm very open to exploring and working on other operating systems.
