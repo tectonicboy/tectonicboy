@@ -23,7 +23,7 @@ without the slightest idea how that software works and a complete inability to e
 nothing but an engineer's skills vastly diminishing, reducing their aptitude, and a codebase of very low quality.
 
 I do use LLM chatbots though. I find them very helpful and productivity-boosting when using them as information dumps,
-saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas.
+saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas. They do have their uses.
 
 Replacing real, passionate programmers with LLMs and AI-generated "vibe coding" circus shows is not going to work.
 The only developers who are genuinely feeling significantly empowered by LLMs and AI-generated coding in a life-changing way
