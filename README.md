@@ -2,8 +2,8 @@
 
 I'm an experienced software developer, an active GCC contributor and a Free Software enthusiast currently based in Europe.
 
-In my career of 5 years so far, I've been primarily busying myself with the dark arts of low-level systems programming in C, C++ and Assembly.
-My development home so far has been Linux, though I'm very open to exploring and working on other operating systems as well.
+In my career of 5 years so far, I've been mainly busying myself with the dark arts of low-level systems programming in C, C++ and Assembly.
+My development home so far has been Linux, though I'm very open to exploring and working on other operating systems too.
 
 Lately I've also been interested in low-level performance analysis and optimizations that are often rooted in
 techniques to positively impact a given compiler's available optimization passes and in CPU microarchitecture behaviour.
