@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**tectonicboy/tectonicboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced software developer, an active GCC contributor and a Free Software enthusiast based in Europe.
 
-Here are some ideas to get you started:
+In my career so far, I've been primarily busying myself with the dark arts of low-level systems programming.
+My development home so far has been GNU/Linux, though I'm open to exploring and working on other operating systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately I've also been very interested in advanced performance analysis and optimizations that are often rooted in
+techniques to positively impact a given compiler's available optimization passes and in CPU microarchitecture behaviour.
+
+I've also recently begun contributing to my first ever Free and Open Source project - The GNU Compiler Collection, as I find
+much overlap in their philosophy, the kind of work the GNU Project does, the purpose of said work and the kind of people
+involved with it. It's been a very positive experience, I plan to continue an active contributor and growing on that front.
+
+# My personal stance on AI-generated content and "vibe coding"
+
+Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
+This is extremely important if we ever want to have a pristine oasis on the internet that's not plagued by AI slop.
+All my personal programming hobby projects are done by me, with my own two hands and brain, for I believe vibe coding
+results in nothing but an engineer's skills quietly diminishing. This is not to say I don't use AI - I find the LLM chatbots
+useful and boosting my productivity when I use them as information dumps, reviewing some source code and giving me new ideas.
+
+Replacing real programmers with LLMs and AI-generated "vibe coding" circus shows is not going to work.
+The only developers who are genuinely feeling significantly empowered by LLMs and AI-generated coding in a life-changing way
+are the "fake it till you make it" grifters who were a fraud to begin with anyway, who only entered the field for a chance at
+an effortless quick buck, with no passion for their craft whatsoever, and not planning to have a long decorated career in it.
+
+That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
+
+Every chance I get, I express my condemnation for anybody who knowingly pushes AI-generated content on the internet, hoping
+the untrained eye of unsuspecting bystanders will see it and interact with it - a direct insult on those same people.
+The AI training scraper bot attacks on web servers have added even more fuel to the fire.
+
+Thankfully, the global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
+
+
+
