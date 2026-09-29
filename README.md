@@ -7,9 +7,7 @@ My development home so far has been Linux, though I'm very open to exploring and
 Lately I've also been interested in low-level performance analysis and optimizations that are often rooted in
 techniques to positively impact a given compiler's available optimization passes and in CPU microarchitecture behaviour.
 
-I've also recently begun contributing to my first ever Free and Open Source project - The GNU Compiler Collection, as I find
-much overlap in their philosophy, the kind of work the GNU Project does, the purpose of said work and the kind of people
-involved with it. It's been a very positive experience and I plan to continue being an active contributor and growing in that ecosystem.
+I've recently begun contributing to my first ever Free and Open Source project - GCC. Eagerly working towards growing in the ecosystem.
 
 Currently open to employment roles with work on low-latency systems, deep performance analysis, general low-level systems
 programming and embedded systems. I'm open to new tech stacks, languages and engineering environments as
