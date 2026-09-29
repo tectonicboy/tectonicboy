@@ -29,9 +29,9 @@ nothing but an engineer's skills vastly diminishing, reducing their aptitude, an
 I do use LLM chatbots though. I find them very helpful and productivity-boosting when using them as information dumps,
 saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas. They do have their uses.
 
-Replacing real, passionate programmers, who build the infrastructure that actually matters, with LLMs and AI-generated "vibe coding" circus shows is not going to work. It's a total hoax.
-The only developers who are genuinely feeling significantly empowered by LLMs and AI-generated coding in a life-changing way
-are the "fake it till you make it" grifters who were a fraud to begin with anyway, who only entered the field for a chance at
+Replacing real, passionate programmers, who build the infrastructure that actually matters, with AI-generated "vibe coding" circus shows is not going to work, it's a hoax.
+The only developers who are feeling significantly empowered by LLMs and AI-generated coding in a life-changing way
+are the "fake it till you make it" grifters, who were a fraud to begin with anyway, who only entered the field for a chance at
 an effortless quick buck, with no passion for their craft whatsoever, and not planning to have a long decorated career in it.
 
 That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
