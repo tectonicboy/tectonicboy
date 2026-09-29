@@ -4,7 +4,7 @@ I'm an experienced software developer, an active GCC contributor and a Free Soft
 
 In my career of 5 years so far, I've been mainly busying myself with the dark arts of low-level systems programming in C, C++ and Assembly.
 I've been developing mainly on Linux, but I'm open to learning other operating systems that are new to me as well. Lately, I've also been
-fascinating by low-level performance analysis rooted in compiler optimizations and CPU microarchitecture behaviour.
+fascinated by low-level performance analysis rooted in compiler optimizations and CPU microarchitecture behaviour.
 
 I've had a positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
