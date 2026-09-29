@@ -8,8 +8,8 @@ fascinated by low-level performance analysis rooted in compiler optimizations an
 
 I've had a positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
-Currently open to employment roles for compilers, low-latency systems, performance engineering, general low-level systems
-programming & embedded systems. Open to relocation, new tech stacks and engineering environments for projects that are sufficiently interesting.
+Currently open to employment roles for compilers, low-latency systems, performance engineering, low-level systems in general
+& embedded systems. Open to relocation, new tech stacks & engineering environments as long as the work is interesting enough.
 
 ## My stance on AI-generated software and "vibe coding"
 
