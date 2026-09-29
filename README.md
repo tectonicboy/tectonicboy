@@ -16,16 +16,15 @@ long as the work is interesting enough.
 ## My personal stance on AI-generated content and "vibe coding"
 
 Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
-This is extremely important if we ever want to have a pristine oasis on the internet that's not plagued by AI slop.
 
 All my software projects are done by me, with my own two hands and brain, for I believe "vibe coding", 
 the idea of blindly trusting an LLM code-emitting agent to produce a piece of high quality, reliably working software,
 without the slightest idea how the emitted code works, results in
 nothing but an engineer's skills diminishing and a codebase of low quality.
 
-I do use LLM chatbots though. I find them very helpful and productivity-boosting when using them as information dumps,
-saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas. They do have their uses.
+I use LLM chatbots productively to save time I'd otherwise spend looking things up, reviewing my code and giving me new ideas.
 
+My condemnation for everyone polluting the internet with AI-generated slop content, hoping unsuspecting bystanders interact with it.
 Replacing real, passionate programmers, who build the infrastructure that actually matters, with AI-generated "vibe coding" circus shows is not going to work. It's a total hoax.
 The only developers who are feeling "greatly empowered" by LLMs and AI-generated coding in a life-changing way
 are the "fake it till you make it" grifters, who were a fraud to begin with anyway, who only entered the field for a chance at
@@ -33,16 +32,9 @@ an effortless quick buck, with no passion for their craft whatsoever, and not pl
 
 That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
 
-Every chance I get, I express my condemnation for anybody who knowingly, in most cases without disclosing it, pollutes the internet
-with soulless AI-generated slop content, hoping that unsuspecting bystanders will interact with it - a direct insult to these people.
-
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 
-I strive for genuine, authentic, high quality content produced by real humans with a passion for what they do.
-This extends beyond software and engineering work - artists, bloggers, writers, teachers, everybody should be focusing on
-preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
-
-Onwards and upwards folks!
+Everybody should be focusing on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
 
 Happy Hacking :)
 
