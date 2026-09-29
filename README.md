@@ -6,7 +6,7 @@ In my career of 5 years so far, I've been mainly busying myself with the dark ar
 I've been developing mainly on Linux, but I'm open to learning other operating systems that are new to me as well. Lately, I've also been
 fascinating by low-level performance analysis rooted in compiler optimizations and CPU microarchitecture behaviour.
 
-I've had a very positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My accepted GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
+I've had a very positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
 Currently open to employment roles for low-latency systems, deep performance analysis, general low-level systems
 programming & embedded systems. Open to relocation, new tech stacks and engineering environments as
