@@ -46,6 +46,7 @@ This extends beyond software and engineering work - artists, bloggers, writers, 
 preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
 
 Onwards and upwards folks!
+
 Happy Hacking :)
 
 
