@@ -30,7 +30,7 @@ The only developers who are feeling "greatly empowered" by LLMs and AI-generated
 are the "fake it till you make it" grifters, who were a fraud to begin with anyway, who only entered the field for a chance at
 an effortless quick buck, with no passion for their craft whatsoever, and not planning to have a long decorated career in it.
 
-That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
+That's not me. I enjoy programming. I call this industry my long-term home and will do everything to help save it from this pestilence.
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 We really ought to focus on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
