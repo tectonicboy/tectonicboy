@@ -20,7 +20,7 @@ Rest assured all the content I bring into existence and put out there is authent
 All my software projects are done by me, with my own two hands and brain, for I believe "vibe coding", 
 the idea of blindly trusting an LLM code-emitting agent to produce a piece of high quality, reliably working software,
 without the slightest idea how the emitted code works, results in
-nothing but an engineer's skills diminishing and a codebase of low quality.
+nothing but an engineer's skills vastly diminishing and a codebase of low quality.
 
 I use LLM chatbots productively to save time I'd have otherwise spent looking things up, reviewing my code and giving me new ideas.
 
