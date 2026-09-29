@@ -18,10 +18,10 @@ Rest assured all the content I bring into existence and put out there is authent
 I still come up with and write my own code. I believe "vibe coding" only leads to an engineer's skills diminishing and a low quality codebase.
 I use LLM chatbots productively as a quicker search engine, reviewing my code, introducing me to new topics and giving me new ideas.
 
-Replacing actual programmers with AI-generated "vibe coding" circus shows is a hoax. The vile executives pushing this deserve a fate so abysmal, I ought not describe it here.
+Replacing actual programmers with AI-generated "vibe coding" circus shows is a hoax. The vile executives and criminal enterprises pushing this deserve a fate so abysmal, I ought not describe it here.
 Most of the developers who are feeling so greatly empowered by AI-generated coding
 are all the fake grifters who only entered the field for a chance at
-an effortless quick buck, with no passion for their craft or the industry whatsoever.
+an effortless quick buck, with no passion for their craft at all.
 
 That's not me. I enjoy programming. I call this industry my long-term home and will do everything to help save it from this pestilence.
 
