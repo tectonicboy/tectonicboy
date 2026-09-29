@@ -34,7 +34,7 @@ That's not me - I call this industry my long-term home and will do everything I 
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
 
-Everybody should be focusing on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
+We really ought to focus on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
 
 Happy Hacking :)
 
