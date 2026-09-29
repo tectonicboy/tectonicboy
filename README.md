@@ -12,7 +12,7 @@ Currently open to employment roles for low-latency systems, deep performance ana
 programming & embedded systems. Open to relocation, new tech stacks and engineering environments as
 long as the work is interesting enough.
 
-## My personal stance on AI-generated content and "vibe coding"
+## My stance on AI-generated software and "vibe coding"
 
 Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
 I still come up with and write my own code. I believe "vibe coding" only leads to an engineer's skills diminishing and a low quality codebase.
