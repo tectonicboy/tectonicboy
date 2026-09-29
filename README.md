@@ -4,7 +4,6 @@ I'm an experienced software developer, an active GCC contributor and a Free Soft
 
 In my career of 5 years so far, I've been mainly busying myself with the dark arts of low-level systems programming in C, C++ and Assembly.
 My development home so far has been Linux, though I'm very open to exploring and working on other operating systems too.
-
 Lately I've also been interested in low-level performance analysis and optimizations that are often rooted in
 techniques to positively impact a given compiler's available optimization passes and in CPU microarchitecture behaviour.
 
@@ -12,8 +11,8 @@ I've also recently begun contributing to my first ever Free and Open Source proj
 much overlap in their philosophy, the kind of work the GNU Project does, the purpose of said work and the kind of people
 involved with it. It's been a very positive experience and I plan to continue being an active contributor and growing in that ecosystem.
 
-Currently open to employment roles with work on low-latency systems, software-hardware codesign and optimization, general low-level systems
-programming and embedded systems. I'm open to entering industries I haven't been in before and learning new tech stacks and programming languages, as
+Currently open to employment roles with work on low-latency systems, deep performance analysis, general low-level systems
+programming and embedded systems. I'm open to new tech stacks, languages and engineering environments as
 long as the work is interesting enough.
 
 ## My personal stance on AI-generated content and "vibe coding"
