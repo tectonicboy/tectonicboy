@@ -9,8 +9,8 @@ techniques to positively impact a given compiler's available optimization passes
 
 I've recently begun contributing to my first ever Free and Open Source project - GCC. Eagerly working towards growing in the ecosystem.
 
-Currently open to employment roles with work on low-latency systems, deep performance analysis, general low-level systems
-programming and embedded systems. I'm open to new tech stacks, languages and engineering environments as
+Currently open to employment roles for low-latency systems, deep performance analysis, general low-level systems
+programming & embedded systems. Open to relocation, new tech stacks and engineering environments as
 long as the work is interesting enough.
 
 ## My personal stance on AI-generated content and "vibe coding"
