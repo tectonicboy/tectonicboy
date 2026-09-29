@@ -21,7 +21,7 @@ I use LLM chatbots productively as a quicker search engine, reviewing my code, i
 Replacing actual programmers with AI-generated coding circus shows is a hoax. The vile executives and criminal enterprises pushing this deserve a fate so abysmal, I ought not describe it here.
 Most of the developers who are feeling so greatly empowered by AI-generated coding
 are all the fake grifters who only entered the field for a chance at
-an effortless quick buck, with no passion for the craft at all.
+an effortless quick buck, with no passion for their craft at all.
 
 That's not me. I enjoy programming. I call this industry my long-term home and will do everything to help save it from this pestilence.
 
