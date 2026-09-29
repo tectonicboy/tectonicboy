@@ -22,7 +22,7 @@ the idea of blindly trusting an LLM code-emitting agent to produce a piece of hi
 without the slightest idea how the emitted code works, results in
 nothing but an engineer's skills diminishing and a codebase of low quality.
 
-I use LLM chatbots productively to save time I'd otherwise spend looking things up, reviewing my code and giving me new ideas.
+I use LLM chatbots productively to save time I'd have otherwise spent looking things up, reviewing my code and giving me new ideas.
 
 My condemnation for everyone polluting the internet with AI-generated slop content, hoping unsuspecting bystanders interact with it.
 Replacing real, passionate programmers, who build the infrastructure that actually matters, with AI-generated "vibe coding" circus shows is not going to work. It's a total hoax.
@@ -33,7 +33,6 @@ an effortless quick buck, with no passion for their craft whatsoever, and not pl
 That's not me - I call this industry my long-term home and will do everything I can to help save it from this pestilence.
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
-
 We really ought to focus on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
 
 Happy Hacking :)
