@@ -21,10 +21,10 @@ long as the work is interesting enough.
 Rest assured all the content I bring into existence and put out there is authentic and coming from a real human - Me.
 This is extremely important if we ever want to have a pristine oasis on the internet that's not plagued by AI slop.
 
-All my personal programming hobby projects are done by me, with my own two hands and brain, for I believe "vibe coding", 
-the process of blindly trusting an LLM code-emitting agent to produce a piece of high quality, reliably working software,
-without the slightest idea how that software works and a complete inability to explain the code it gave you, results in
-nothing but an engineer's skills vastly diminishing, reducing their aptitude, and a codebase of very low quality.
+All my software projects are done by me, with my own two hands and brain, for I believe "vibe coding", 
+the idea of blindly trusting an LLM code-emitting agent to produce a piece of high quality, reliably working software,
+without the slightest idea how the emitted code works, results in
+nothing but an engineer's skills diminishing and a codebase of low quality.
 
 I do use LLM chatbots though. I find them very helpful and productivity-boosting when using them as information dumps,
 saving me time I'd have otherwise spent googling things, reviewing my source code and giving me new ideas. They do have their uses.
