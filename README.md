@@ -26,7 +26,7 @@ an effortless quick buck, with no passion for their craft at all.
 That's not me. I enjoy programming. I call this industry my long-term home and will do everything to help save it from this pestilence.
 
 Thankfully, global technology projects that actually matter are doing the right thing and outright banning AI-generated contributions.
-We really ought to focus on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
+We really got to focus on preserving, valuing and making authentic content created with a passion, instead of AI-generated pollution.
 
 Happy Hacking :)
 
