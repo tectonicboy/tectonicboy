@@ -11,7 +11,7 @@ I've had a positive experience beginning to contribute to GCC and eagerly workin
 Currently open to employment roles for compilers, low-latency systems, performance engineering, low-level systems in general
 & embedded systems. Open to relocation, new tech stacks & engineering environments as long as the work is interesting enough.
 
-## My stance on AI-generated software and "vibe coding"
+## My stance on AI-generated content and "vibe coding"
 
 Rest assured all the content I produce and put out there is authentic and coming from a real human - Me.
 I still come up with and write my own code by myself. I believe "vibe coding" leads to an engineer's skills diminishing and a low quality codebase.
