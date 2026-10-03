@@ -8,6 +8,16 @@ fascinated by low-level performance analysis rooted in compiler optimizations an
 
 I've had a positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
+## My personal developer values
+
+- Keep things simple. Even complicated things, always find a way to keep the code and system design as simple to comprehend as possible.
+  An idiot admires complexity, a genius admires simplicity.
+
+- Keep systems highly modular, with a clear separation of concerns for the individual subsystems, connected via elegant interfaces.
+
+- Do more with less, rather than using a million new APIs, that nobody has heard of, to do what was already perfectly doable with older language constructs. Ahem, C++.
+
+## Employment status
 Currently open to employment roles for compilers, low-latency systems, performance engineering, low-level systems in general
 & embedded systems. Open to relocation, new tech stacks & engineering environments as long as the work is interesting enough.
 
