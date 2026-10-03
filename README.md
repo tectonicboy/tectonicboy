@@ -8,7 +8,7 @@ as well as low-level performance analysis & advanced optimizations rooted in the
 I've had a positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
 Currently open to employment roles for compilers, low-latency systems, performance engineering, OS kernel development
-and embedded systems. Open to relocation, new tech stacks & engineering environments as long as the work is interesting enough.
+and embedded systems. I am legally able to work in the UK and EU. Open to relocation and entering new unfamiliar industries.
 ## My personal developer values
 
 - Keep even complicated things simple. Always find a way to keep the code and system design as easy to comprehend as possible.
