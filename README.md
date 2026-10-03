@@ -13,7 +13,7 @@ and embedded systems. I am legally able to work in the UK and EU. Open to reloca
 
 - Keep even complicated things simple. Always find a way to keep the code and system design as easy to comprehend as possible.
 - Keep systems highly modular, with a clear separation of concerns for the individual subsystems, connected via elegant interfaces.
-- Do more with less, rather than excessively using new APIs or language constructs that nobody has heard of at every opportunity.
+- Do more with less, rather than excessively using new APIs or language constructs that nobody has even heard of.
 - Increase global awareness of malicious organizations that secretly inflict harm on people at scale. Advocate for Free Software.
 
 ## My stance on AI-generated content and "vibe coding"
