@@ -13,15 +13,12 @@ and embedded systems. Open to relocation, new tech stacks & engineering environm
 ## My personal developer values
 
 - Keep even complicated things simple. Always find a way to keep the code and system design as easy to comprehend as possible.
-  
-
 - Keep systems highly modular, with a clear separation of concerns for the individual subsystems, connected via elegant interfaces.
-
 - Do more with less, rather than using a million new APIs, that nobody has heard of, to do what was already perfectly doable with older, far more familiar language constructs that are likely to be understood by vastly more readers of the code. Ahem, C++.
 
 ## My stance on AI-generated content and "vibe coding"
 I still come up with and write my own code by myself. I believe "vibe coding" leads to an engineer's skills diminishing and a low quality codebase.
-I use LLM chatbots for boosted productivity as quicker search engines, to analyze code and other material & introducing me to new topics and ideas.
+I use LLMs productively as quicker search engines, to analyze code / other material & introducing me to new topics and ideas.
 
 Replacing actual programmers with AI-generated coding circus shows is a hoax.
 Most of the developers feeling so greatly empowered by AI-generated coding
