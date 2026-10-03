@@ -3,7 +3,7 @@
 I'm an experienced software developer, an active GCC contributor and a Free Software enthusiast currently based in Europe.
 
 In my career of 5 years so far, I've been mainly busying myself with system-level software in C, C++ and Assembly on GNU/Linux,
-as well as low-level performance analysis and optimizations rooted in the behavior of compilers and CPU microarchitecture.
+as well as low-level performance analysis & advanced optimizations rooted in the behavior of compilers and CPU microarchitecture.
 
 I've had a positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
