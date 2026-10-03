@@ -16,7 +16,7 @@ and embedded systems. I am legally able to work in the UK and EU. Open to reloca
 - Do more with less, rather than using a million new APIs or language constructs that nobody has heard of, and reduce readability.
 
 ## My stance on AI-generated content and "vibe coding"
-I still come up with and write my own code by myself. I believe "vibe coding" leads to an engineer's skills diminishing and a low quality codebase.
+I still come up with and write my own code by myself. I believe "vibe coding" (blindly trusting an LLM to emit code you don't understand) leads to an engineer's skills diminishing and a low quality codebase.
 Moreover, I actually have fun programming, I truly enjoy doing it and love my craft, so it's boring to offload all the fun to AI.
 I use LLMs productively as a quicker search, to analyze code / other material and introducing me to new topics and ideas.
 I'm happy to utilize various AI-driven workflows on the job and evaluate their effectiveness.
