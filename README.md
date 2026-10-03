@@ -15,7 +15,7 @@ I've had a positive experience beginning to contribute to GCC and eagerly workin
 
 - Keep systems highly modular, with a clear separation of concerns for the individual subsystems, connected via elegant interfaces.
 
-- Do more with less, rather than using a million new APIs, that nobody has heard of, to do what was already perfectly doable with older language constructs. Ahem, C++.
+- Do more with less, rather than using a million new APIs, that nobody has heard of, to do what was already perfectly doable with older, far more familiar language constructs that are likely to be understood by vastly more readers of the code. Ahem, C++.
 
 ## Employment status
 Currently open to employment roles for compilers, low-latency systems, performance engineering, low-level systems in general
