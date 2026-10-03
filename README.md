@@ -21,7 +21,7 @@ Moreover, I actually have fun programming, I truly enjoy doing it and love my cr
 I use LLMs productively as a quicker search, to analyze code / other material and introducing me to new topics and ideas.
 I'm happy to utilize various AI-driven workflows on the job and evaluate their effectiveness.
 
-We got to focus on authentic content produced by people with a passion, instead of AI-generated pollution. Onwards and upwards folks!
+We've got to focus on authentic content made by people with a passion, instead of AI-generated pollution. Onwards and upwards folks!
 
 Happy Hacking :)
 
