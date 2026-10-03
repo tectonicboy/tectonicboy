@@ -18,8 +18,8 @@ I've had a positive experience beginning to contribute to GCC and eagerly workin
 - Do more with less, rather than using a million new APIs, that nobody has heard of, to do what was already perfectly doable with older, far more familiar language constructs that are likely to be understood by vastly more readers of the code. Ahem, C++.
 
 ## Employment status
-Currently open to employment roles for compilers, low-latency systems, performance engineering, low-level systems in general
-& embedded systems. Open to relocation, new tech stacks & engineering environments as long as the work is interesting enough.
+Currently open to employment roles for compilers, low-latency systems, performance engineering, OS kernel development
+and embedded systems. Open to relocation, new tech stacks & engineering environments as long as the work is interesting enough.
 
 ## My stance on AI-generated content and "vibe coding"
 
