@@ -10,8 +10,8 @@ I've had a positive experience beginning to contribute to GCC and eagerly workin
 
 ## My personal developer values
 
-- Keep things simple. Even complicated things, always find a way to keep the code and system design as simple to comprehend as possible.
-  An idiot admires complexity, a genius admires simplicity.
+- Keep even complicated things simple. Always find a way to keep the code and system design as easy to comprehend as possible.
+  
 
 - Keep systems highly modular, with a clear separation of concerns for the individual subsystems, connected via elegant interfaces.
 
