@@ -20,7 +20,7 @@ I still come up with and write my own code by myself. I believe "vibe coding" le
 Moreover, I actually have fun programming, I truly enjoy doing it and love my craft, so it's boring to offload all the fun to AI.
 I use LLMs productively as a quicker search, to analyze code / other material and introducing me to new topics and ideas.
 
-We must focus on authentic content produced by humans with a passion for what they do, instead of AI-generated pollution. Onwards and upwards folks!
+We must focus on authentic content produced by real people with a passion, instead of AI-generated pollution. Onwards and upwards folks!
 
 Happy Hacking :)
 
