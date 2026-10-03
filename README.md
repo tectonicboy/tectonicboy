@@ -19,6 +19,7 @@ and embedded systems. Open to relocation, new tech stacks & engineering environm
 ## My stance on AI-generated content and "vibe coding"
 I still come up with and write my own code by myself. I believe "vibe coding" leads to an engineer's skills diminishing and a low quality codebase.
 I use LLMs productively as a quicker search, to analyze code / other material & introducing me to new topics and ideas.
+
 Replacing actual programmers with AI-generated coding circus shows is a hoax.
 Most of the developers feeling so greatly empowered by AI-generated coding
 are all the fake grifters who only entered the field for
