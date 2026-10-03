@@ -24,7 +24,7 @@ Replacing actual programmers with AI-generated coding circus shows is a hoax.
 Most of the developers feeling so greatly empowered by AI-generated coding
 are all the fake grifters who only entered the field for
 an effortless quick buck, with no passion for their craft at all.
-That's not me. I enjoy programming. I call this industry my long-term home and will do everything to help save it from this pestilence.
+That's not me. I enjoy programming. I call this industry my long-term home and will do everything I can to help save it from this pestilence.
 
 
 Happy Hacking :)
