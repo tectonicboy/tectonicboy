@@ -9,11 +9,6 @@ I've had a positive experience beginning to contribute to GCC and eagerly workin
 
 Currently open to employment roles for compilers, low-latency systems, performance engineering, OS kernel development
 and embedded systems. I am legally able to work in the UK and EU. Open to relocation and entering new unfamiliar industries.
-## My personal developer values
-
-- **Enjoy the craft** of software engineering itself. Foster a friendly community of genuine developers who truly love what they do.
-- Do create complicated systems, but ensure to keep the code, interfaces and system design **simple and easy to comprehend**.
-- Achieve more with less, rather than excessively using new APIs or language constructs few people are likely to have heard of.
 
 ## My stance on AI-generated content and "vibe coding"
 I still come up with and write my own code by myself. I believe "vibe coding" (blindly trusting an LLM to emit code you don't understand) leads to an engineer's skills diminishing and a low quality codebase.
