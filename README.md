@@ -8,7 +8,7 @@ as well as low-level performance analysis & advanced optimizations rooted in the
 I've had a positive experience beginning to contribute to GCC and eagerly working toward growing in that ecosystem: [My GCC patches](https://github.com/gcc-mirror/gcc/commits/master/?author=tectonicboy)
 
 Currently open to employment roles for compilers, low-latency systems, performance engineering, OS kernel development
-and embedded systems. Legally able to work in the UK and EU and open to relocation and entering new unfamiliar industries.
+and embedded systems. Legally able to work in the UK and EU, open to relocation and entering new unfamiliar industries.
 
 ## My stance on AI-generated content and "vibe coding"
 I still come up with and write my own code by myself with my own two hands and brain. I believe "vibe coding"
