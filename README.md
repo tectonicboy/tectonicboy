@@ -11,8 +11,9 @@ Currently open to employment roles for compilers, low-latency systems, performan
 and embedded systems. Legally able to work in the UK and EU and open to relocation and entering new unfamiliar industries.
 
 ## My stance on AI-generated content and "vibe coding"
-I still come up with and write my own code by myself. I believe "vibe coding" (blindly trusting an LLM to emit code you don't understand) leads to an engineer's skills diminishing and a low quality codebase.
-Moreover, I love programming so I would never inflict on myself the adversity of letting AI do it for me.
+I still come up with and write my own code by myself with my own two hands and brain. I believe "vibe coding"  
+(blindly trusting an LLM to emit code you don't understand) leads to an engineer's skills diminishing and a  
+low quality codebase. I love programming so I would never inflict on myself the adversity of AI doing it for me.
 I use LLMs productively as a quicker search, to analyze code / other material and introducing me to new topics and ideas.
 I'm happy to utilize various AI-driven workflows on the job and evaluate their effectiveness.
 
