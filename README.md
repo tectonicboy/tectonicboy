@@ -10,7 +10,7 @@ I've had a positive experience beginning to contribute to GCC and eagerly workin
 Currently open to employment roles for compilers, low-latency systems, performance engineering, OS kernel development
 and embedded systems. Legally able to work in the UK and EU, open to relocation and entering new unfamiliar industries.
 
-Current effort in side projects: Giving Rosetta Secret Communications a major project refresh, before continuing my language.
+Current side project effort: Giving Rosetta Secret Communications a big project refresh, before continuing my language.
 
 ## My stance on AI-generated content and "vibe coding"
 I still come up with and write my own code by myself with my own two hands and brain. I believe "vibe coding"
